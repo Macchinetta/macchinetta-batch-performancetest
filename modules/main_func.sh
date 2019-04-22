@@ -13,7 +13,7 @@
 # COPYRIGHT NOTE: Copyright(c) 2017 NTT Corporation.
 #        CREATED: 2015年3月13日
 #        UPDATED: 2017年12月18日
-#        VERSION: 2.0.0
+#        VERSION: 2.0.2
 #
 #============================================================================
 

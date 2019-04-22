@@ -8,7 +8,7 @@
 # COPYRIGHT NOTE: Copyright(c) 2017 NTT Corporation.
 #        CREATED: 2015年3月13日
 #        UPDATED: 2017年12月18日
-#        VERSION: 2.0.0
+#        VERSION: 2.0.2
 #
 #============================================================================
 
@@ -44,13 +44,13 @@ DB_IPADDRESS="10.100.71.5"
 TEST_LOCATION="/home/test/performance"
 
 #サンプルアプリケーションのディレクトリパス
-SAMPLE_AP_LOCATION="${TEST_LOCATION}/atrs-batch-2.0.0.RELEASE"
+SAMPLE_AP_LOCATION="${TEST_LOCATION}/atrs-batch-2.0.2.RELEASE"
 
 #測定結果のディレクトリパス（バッチサーバ）
 RESULT_LOCATION="${TEST_LOCATION}/test_result"
 
 #サンプルアプリケーション動作ログのファイルパス
-ACTION_LOG_LOCATION="${TEST_LOCATION}/atrs-batch-2.0.0.RELEASE/logs/atrs-batch-application.log"
+ACTION_LOG_LOCATION="${TEST_LOCATION}/atrs-batch-2.0.2.RELEASE/logs/atrs-batch-application.log"
 
 #測定結果のディレクトリパス（DBサーバ）
 RESULT_DB_LOCATION="/var/lib/pgsql/db_test/test_result_db"
